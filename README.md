@@ -1,6 +1,6 @@
-# kali-anonstealth
+# ubuntu-anonstealth
 
-ParrotSec's anonsurf and stealth, ported to work with Kali Linux.
+ParrotSec's anonsurf and stealth, ported to work with Kali Linux. now ported to work with ubuntu 18
 
 ## How to use this repo
 
