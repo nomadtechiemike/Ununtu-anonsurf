@@ -31,5 +31,5 @@ apt-get install -y secure-delete tor i2p # install dependencies, just in case
 # Configure and install the .deb
 dpkg-deb -b ubuntu-anonsurf-deb-src/ ububtu-anonsurf.deb # Build the deb package
 dpkg -i ubuntu-anonsurf.deb || (apt-get -f install && dpkg -i ububtu-anonsurf.deb) # this will automatically install the required packages
-sudo chown sub7:sub7 ububtu-anonsurf.deb
+
 exit 0
